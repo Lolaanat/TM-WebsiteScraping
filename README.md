@@ -265,8 +265,6 @@ Overall, the experiments demonstrate the importance of text representation, mode
 5. The notebook generates `roblox_review.csv` during the data collection process.
 
 ### Author
-
 **Leora Natania**
 
-Text Mining — Midterm Examination  
-BINUS University
+Text Mining — Midterm Examination
